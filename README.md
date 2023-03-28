@@ -10,8 +10,10 @@ Authorized functions and macros
 * `va_arg (man 3 va_arg)`
 
 
-##Collaborators
+## Collaborators
 
 Ardayfio Prince Andrew
+
 Sha'adah Yusuf
+
 Last update - 28/03/2023
